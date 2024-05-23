@@ -16,7 +16,7 @@ A comprehensive Baggage Management Solution to track baggage across airports and
 
 ### Running the application
 
-Execute the scripts 1 to 8 sequentially by logging in with the same user (i.e.`SequenceNumber_User.sql`).
+* Execute the scripts 1 to 8 sequentially by logging in with the same user (i.e.`SequenceNumber_User.sql`).
 
 ## License
 
